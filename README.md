@@ -12,6 +12,7 @@
 
 <p><img align="left" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanmalikk&show_icons=true&locale=en&layout=compact" alt="faizanmalikk" /></p>
 
-<p>&nbsp;<img align="center" height='200px' src="https://github-readme-stats.vercel.app/api?username=faizanmalikk&show_icons=true&locale=en" alt="faizanmalikk" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" height='200px' src="https://github-readme-stats.vercel.app/api?username=faizanmalikk&show_icons=true&locale=en" alt="faizanmalikk" /></p>
 
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanmalikk&" alt="faizanmalikk" /></center>
+<div style="display: flex; justify-content: center; width: 100%;"><img  width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanmalikk&" alt="faizanmalikk" /></div>
+

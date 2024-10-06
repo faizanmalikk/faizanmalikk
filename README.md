@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Faizan Jamil</h1>
-<h3 align="center">A passionate Sr. Full Stack Web3 Developer</h3>
+<h1 align="center">Hi, I'm Faizan Jamil</h1>
+<h3 align="center">A passionate Software Engineer and Full Stack Developer with a focus on Web3, Cybersecurity, and AI.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

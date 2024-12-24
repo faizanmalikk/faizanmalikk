@@ -14,6 +14,5 @@
 
 <p align="center"><img align="center" height='200px' src="https://github-readme-stats.vercel.app/api?username=faizanmalikk&show_icons=true&locale=en" alt="faizanmalikk" /></p>
 
-<p align="center"><img  width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanmalikk&" alt="faizanmalikk" /></p>
 
 

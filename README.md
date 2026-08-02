@@ -6,13 +6,13 @@ My research focuses on developing machine learning methods for complex biomedica
 
 ---
 
-## 🚀 Current Interests
+## 🔬 Research & Learning Interests
 
 - Artificial Intelligence
 - Machine Learning
 - Multi-modal Learning
 - Large Language Models (LLMs)
-- Agentic AI
+- Agentic AI and AI Agents
 - Intelligent Systems
 
 ---
@@ -30,16 +30,6 @@ React • Next.js • Node.js • Express • MongoDB • Tailwind CSS
 
 ### Tools & Platforms
 Git • Docker • Linux • MATLAB
-
----
-
-## 🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- Agentic AI
-- AI Agents
-- Advanced Deep Learning
-- AI for Real-World Applications
 
 ---
 

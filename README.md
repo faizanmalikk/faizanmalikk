@@ -23,7 +23,7 @@ My research focuses on developing machine learning methods for complex biomedica
 Python • TypeScript • JavaScript • Solidity • SQL
 
 ### AI & Machine Learning
-PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy
+PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • LangGraph
 
 ### Full-Stack Development
 React • Next.js • Node.js • Express • MongoDB • Tailwind CSS
